@@ -12,6 +12,6 @@ In this practical exercise, we are using Natural Language Processing to explore 
 ![](img/native-seattle.png)
 ![](img/gay-seattle.png)
 
-Furthermore, we also have two pdf for the world map. It does shows a similar spatial relationship from a world wide perspective. What we have are a commonly appeared international topics. Both articles are western centered topic, which is why there are less mentions for places in Asia or Africa. However, the topic of homosexuality has a way bigger influence or acknowledgment in Europe than "Native Seattle". This is also somehow we expected. The study of homosexual identity is a worldwide topic in recent years, and people in Europe are more liberal(support/document) than people in Asia. On the other hand, the study of "Native Seattle" is a topic mainly focusing on Seattle. It makes sense for have a less influential spread internationally. 
-![](img/world-native.png)
+Furthermore, we also have two pdf for the world map. It does shows a similar spatial relationship from a world wide perspective. What we have are a commonly appeared international topics. Both articles are western centered topic, which is why there are less mentions for places in Asia or Africa. However, the topic of homosexuality has a way bigger influence or acknowledgment in Europe than "Native Seattle". This is also somehow we expected. The study of homosexual identity is a worldwide topic in recent years, and people in Europe are more liberal(support/document) than people in Asia. On the other hand, the study of "Native Seattle" is a topic mainly focusing on Seattle. It makes sense for have a less influential spread internationally.
+![](img/world_native.png)
 ![](img/gay_graduated_map.png)
